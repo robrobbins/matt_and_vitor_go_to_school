@@ -17,3 +17,7 @@ Using any public API that can fetch photos create a single page javascript app t
 
 This does not need any persistance, so it can be client side only, no server or database. In future iterations you could always spin up a server and get fancy...
 If you want to have some small persistence you can always look into using the browser's LocalStorage but its not necessary.
+
+#### tech stuff
+
+Dont gimme a bunch of sphagetti. Organize your biz! Maybe use ES6 and Webpack. Maybe use some other AMD Module loader. React? Angular? Vanilla? IDK, you make the call. Oh yeah, WRITE SOME FUKIN TESTS IF YOU EVER WANT A JOB...
